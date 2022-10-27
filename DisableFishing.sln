@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31105.61
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8bcf6e44-ec8b-49e3-95e6-ac04a4c2d67b}") = "DisableFishing", "DisableFishing.csproj", "{0d2a4eab-a23c-4445-9e23-f958bca75b9d}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0d2a4eab-a23c-4445-9e23-f958bca75b9d}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0d2a4eab-a23c-4445-9e23-f958bca75b9d}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0d2a4eab-a23c-4445-9e23-f958bca75b9d}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0d2a4eab-a23c-4445-9e23-f958bca75b9d}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {c31fd935-cefc-4285-9c08-7adc0f2406cf}
+	EndGlobalSection
+EndGlobal
