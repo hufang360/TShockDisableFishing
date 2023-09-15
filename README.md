@@ -5,7 +5,7 @@
 
 
 #### 用法
-下载本插件 [DisableFishing-v1.0.dll](https://gitee.com/hufang360/TShockDisableFishing/releases/download/v1.0/DisableFishing-v1.0.dll)
+下载本插件 [DisableFishing-v1.0.dll](https://github.com/hufang360/TShockDisableFishing/releases/download/v1.0/DisableFishing-v1.0.dll)
 
 将插件拷贝至 `ServerPlugins` 目录下，重新开启服务器即可。
 
